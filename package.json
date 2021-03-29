@@ -1,0 +1,24 @@
+{
+	"name": "swatchsquare",
+	"description": "A tool for displaying color swatches from data.",
+	"version": "1.0.0",
+	"main": "./src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Snakeroom/Swatchsquare.git"
+	},
+	"keywords": [
+		"color",
+		"palette",
+		"data"
+	],
+	"author": "haykam821",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Snakeroom/Swatchsquare/issues"
+	},
+	"homepage": "https://github.com/Snakeroom/Swatchsquare#readme"
+}
